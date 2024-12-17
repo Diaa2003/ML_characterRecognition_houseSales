@@ -1,1 +1,1 @@
-# ML_characterRecognition_houseSales
+Please change directory in code file to the extracted directory
